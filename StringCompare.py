@@ -12,3 +12,4 @@ def compareStrings(s1, s2):
     #else:
     #   print("strings are not equal")
     
+main()
